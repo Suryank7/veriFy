@@ -1,0 +1,14 @@
+# Datasets
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Configs
+.env
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
