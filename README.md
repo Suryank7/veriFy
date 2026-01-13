@@ -73,4 +73,3 @@ We evaluate models based on:
 - **Social Media Integration**: Bot to verify tweets/posts automatically.
 
 ---
-*Developed by [Lalit]*
